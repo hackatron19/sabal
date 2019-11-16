@@ -37,3 +37,7 @@ Created GUI to edit information of user.
 Made GUI to display details of students.
 ## At 11:00 PM
 Created GUI that contains assignment i.e uploaded by administrator.
+## At 12:15 AM
+Added GUI thats displays all the given assignments.
+## At 01:18 AM
+Made GUI to take attendence.
