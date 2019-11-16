@@ -31,3 +31,7 @@ We created query form for students/parent.
 We made a GUI that displays all the query that are sent by parent and student. 
 ## At 5:50 PM
 Succesfully made a GUI that information of user and stores in database.
+## At 6:45 PM
+Created GUI to edit information of user.
+## At 7:15 PM
+Made GUI to display details of students.
