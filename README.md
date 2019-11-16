@@ -22,10 +22,12 @@ miscellaneous notices.
 HTML, java, JavaScript, MySQL, Node.js, NetBeans.
 # Project Log:
 ## At 2:00 PM
-We succesfully created our first GUI frame i.e login page
+We succesfully created our first GUI frame i.e login page.
 ## At 3:45 PM
 We created student parents desk form.
 ## At 4:15 PM
 We created query form for students/parent.
 ## At 4:45 PM
 We made a GUI that displays all the query that are sent by parent and student. 
+## At 5:50 PM
+Succesfully made a GUI that information of user and stores in database.
