@@ -49,3 +49,7 @@ Created GUI to display students performance.
 Succesfully added the column of fees in the students and parents desk and administrative page.
 ## At 10:00 AM
 We updated our querry pages so that admin can send reply to all the queries and students can get the reply.
+## At 11:15 AM
+We created GUI that contains main page of students/parent login and administrative login. 
+## At 1:15 PM
+Final submission of code.
