@@ -40,4 +40,10 @@ Created GUI that contains assignment i.e uploaded by administrator.
 ## At 12:15 AM
 Added GUI thats displays all the given assignments.
 ## At 01:18 AM
-Made GUI to take attendence.
+Made GUI to take attendence and dislpay the attendence of students.
+## At 3:45 AM
+Made GUI to take record of student performance.
+## At 4:20 AM
+Created GUI to display students performance.
+## At 8:08 AM
+Succesfully added the column of fees in the students and parents desk and administrative page.
